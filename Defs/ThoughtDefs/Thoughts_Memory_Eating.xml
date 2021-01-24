@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- ======= Basic quality thoughts ========= -->
+
+  <ThoughtDef>
+    <defName>AteBagOfDicks</defName>
+    <durationDays>1</durationDays>
+    <stages>
+      <li>
+        <label>ate Bag of Dicks</label>
+        <description>That Bag of Dicks was amazing. It nourished my body and my soul.</description>
+        <baseMoodEffect>7</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AtePlateOfDicks</defName>
+    <durationDays>1</durationDays>
+    <stages>
+      <li>
+        <label>ate Plate of Dicks</label>
+        <description>That Plate of Dicks was amazing. Very pleasant to slurp down. Cyanide and Happiness reference.</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

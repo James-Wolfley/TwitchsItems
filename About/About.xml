@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <!-- The name of the mod -->
+    <name>Twitch's Items</name>
+    
+    <!-- The mod author names, usually set to your Steam/Forum name -->
+    <author>Twitch_Blade</author>
+    
+    <!-- A URL to be displayed on your mod info page(if available). Can be set to link to anything. Most link it to their Github/Workshop page/forum post. -->
+    <url>https://github.com/TwitchBladeDev/TwitchsItems</url>
+    
+    <!-- Added in 1.0. Please make it human readable. Avoid acronyms where possible. Normally qualifiers seperated by periods.-->
+    <packageId>TwitchBlade.ModSeries.TwitchsItems</packageId>
+    
+    <!-- Supported version lists which versions of Rimworld your mod is compatible with. If your mod doesn't break across versions, lists them all here. -->
+    <supportedVersions>
+        <li>1.2</li>
+    </supportedVersions>
+    
+    <!-- Describes your mod, can be multiple lines long. -->
+    <description>A Mod that adds items I thought should be in the game.
+
+Currently only adds one item to test how this whole process works.
+
+That item also happens to be a bag of D**ks as a joke so use if you have humor.
+The bag of d**ks is a food that counts as a fine meal with a mood buff of +7 but is as cheap as a simple meal to make.
+    </description>
+</ModMetaData>
