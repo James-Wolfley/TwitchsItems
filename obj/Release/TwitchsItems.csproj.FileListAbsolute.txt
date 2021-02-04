@@ -1,0 +1,5 @@
+D:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\TwitchsItems\Source\bin\Release\TwitchsItems.dll
+D:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\TwitchsItems\Source\bin\Release\TwitchsItems.pdb
+D:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\TwitchsItems\Source\obj\Release\TwitchsItems.csproj.CoreCompileInputs.cache
+D:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\TwitchsItems\Source\obj\Release\TwitchsItems.dll
+D:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\TwitchsItems\Source\obj\Release\TwitchsItems.pdb

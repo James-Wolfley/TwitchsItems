@@ -10,7 +10,7 @@
     <url>https://github.com/TwitchBladeDev/TwitchsItems</url>
     
     <!-- Added in 1.0. Please make it human readable. Avoid acronyms where possible. Normally qualifiers seperated by periods.-->
-    <packageId>TwitchBlade.ModSeries.TwitchsItems</packageId>
+    <packageId>TwitchBlade.2.TwitchsItems</packageId>
     
     <!-- Supported version lists which versions of Rimworld your mod is compatible with. If your mod doesn't break across versions, lists them all here. -->
     <supportedVersions>
@@ -24,5 +24,7 @@ Currently only adds one item to test how this whole process works.
 
 That item also happens to be a bag of D**ks as a joke so use if you have humor.
 The bag of d**ks is a food that counts as a fine meal with a mood buff of +7 but is as cheap as a simple meal to make.
+
+Also adds a Plate of D**ks that counts as a lavish meal.
     </description>
 </ModMetaData>
